@@ -23,8 +23,8 @@ languages adventures
 <body>
   <header>
     <img src="https://via.placeholder.com/150?text=You" alt="Your Photo" /> <!-- Replace with your image URL, e.g., Imgur upload -->
-    <h1>Hi, I'm [Your Name]! 🌍</h1>
-    <p>Let's connect and learn about cultures from around the world! Share your language, traditions, stories, and food with me. I speak [your languages], excited to make global friends!</p>
+    <h1>[Saluton]! 🌍</h1>
+    <p>Flugante ĉi tien, plaĉas renkonti vin, bonvolu dividi kun mi la tradicion, manĝaĵon, kulturon kaj lingvon de via lando. Ĝis baldaŭ!</p>
   </header>
   
   <div class="links">
@@ -33,12 +33,12 @@ languages adventures
     <a href="https://instagram.com/yourusername" class="link-btn">📸 Follow on Instagram</a>
   </div>
   
-  <p>Message me in any language—I'll use Google Translate if needed! What’s one unique thing from your culture?</p>
+  <p>Message me in any language—What’s one unique thing from your culture?</p>
   
   <div class="icons">
-    <a href="mailto:your-email@gmail.com" aria-label="Email">✉️</a>
-    <a href="https://discord.gg/your-discord-invite" aria-label="Discord">💬</a>
-    <a href="https://instagram.com/yourusername" aria-label="Instagram">📷</a>
+    <a href="mailto:flugado@yahoo.com.hk" aria-label="Email">✉️</a>
+    <a href="https://discord.gg/flugado" aria-label="Discord">💬</a>
+    <a href="https://instagram.com/scriptxwriter" aria-label="Instagram">📷</a>
   </div>
   
   <footer>
