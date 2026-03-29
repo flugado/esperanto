@@ -1,28 +1,5 @@
-# esperanto
-languages adventures
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Connect Cultures - Let's Share Stories!</title>
-  <style>
-    body { font-family: Arial, sans-serif; max-width: 600px; margin: 0 auto; padding: 20px; text-align: center; background: linear-gradient(to bottom, #f0f8ff, #e6f3ff); color: #333; }
-    header { margin-bottom: 30px; }
-    img { border-radius: 50%; width: 150px; height: 150px; object-fit: cover; border: 4px solid #4a90e2; }
-    h1 { color: #2c5aa0; margin: 10px 0; }
-    p { font-size: 1.2em; line-height: 1.5; }
-    .links { display: flex; flex-direction: column; gap: 15px; margin: 30px 0; }
-    .link-btn { display: block; padding: 15px 20px; background: #4a90e2; color: white; text-decoration: none; border-radius: 50px; font-size: 1.1em; font-weight: bold; transition: background 0.3s; }
-    .link-btn:hover { background: #357abd; }
-    .icons { display: flex; justify-content: center; gap: 20px; margin-top: 20px; }
-    .icon { font-size: 2em; }
-    footer { margin-top: 40px; font-size: 0.9em; color: #666; }
-  </style>
-</head>
-<body>
-  <header>
-    <img src="https://via.placeholder.com/150?text=You" alt="Your Photo" /> <!-- Replace with your image URL, e.g., Imgur upload -->
+# Esperanto
+Language adventures
     <h1>[Saluton]! 🌍</h1>
     <p>Flugante ĉi tien, plaĉas renkonti vin, bonvolu dividi kun mi la tradicion, manĝaĵon, kulturon kaj lingvon de via lando. Ĝis baldaŭ!</p>
   </header>
